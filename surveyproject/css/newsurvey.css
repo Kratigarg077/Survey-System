@@ -1,0 +1,15 @@
+.heading{
+    margin-top: 30px;
+}
+
+.card{
+    height: 400px;
+    width: 600px;
+    margin: 50px auto;
+  
+}
+/* .card-body{
+    margin-top: 30px;
+    height: 600px;
+    background-color:#cbe9f5;
+} */

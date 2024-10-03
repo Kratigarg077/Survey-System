@@ -1,0 +1,18 @@
+button{
+    width:10vh;
+    height: 4vh;
+    /* font-size:small; */
+  } 
+  table.dataTable {
+    /* width: 100%;
+    margin: 0 auto;
+    clear: both; */
+     border-collapse: collapse !important; 
+  }
+table.dataTable tbody tr {
+    /* background-color: #ffffff; */
+    background-color: rgba(0,0,0,.05) !important;
+}
+.table-bordered th,td{
+    border:1px solid black !important;
+}
